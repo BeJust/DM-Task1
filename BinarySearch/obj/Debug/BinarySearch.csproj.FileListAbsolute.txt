@@ -1,0 +1,10 @@
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\bin\Debug\BinarySearch.exe
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\bin\Debug\ClassLib.dll
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\bin\Debug\ClassLib.pdb
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\obj\Debug\BinarySearch.csproj.CopyComplete
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\obj\Debug\BinarySearch.exe
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\2 курс\ДМ\SearchAlgorithmTask1\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
